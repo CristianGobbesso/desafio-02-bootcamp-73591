@@ -1,0 +1,37 @@
+
+                        /* Uso de clases */
+/* Tipografias de Google */
+.tipografia-roboto {
+    font-family: "Roboto", sans-serif;
+    font-size: large;
+}
+
+/* Tipografias seguras */
+.tipografia-impact {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.color-verde {
+    color:green;
+}
+
+.color-rojo {
+    color:#f00;
+}
+
+.titulo-centrado {
+    text-align: center;
+}
+
+                    /* Uso selectores de tipo */
+h2 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+ul {
+    font-size: 26px;
+}
+
+h4 {
+    color:#00f;
+}
